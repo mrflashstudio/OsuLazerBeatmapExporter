@@ -23,7 +23,7 @@ namespace OsuLazerBeatmapExporter
             foreach (var map in maps)
             {
                 counter++;
-                Console.WriteLine($"Exporting {counter} beatmap out of {maps.Count()}... ({map.BeatmapSetName})");
+                Console.WriteLine($"Exporting {counter} beatmapset out of {maps.Count()}... ({map.BeatmapSetName})");
 
                 string beatmapDirectory = $@"{outputPath}\{map.BeatmapSetName}";
 
