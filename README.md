@@ -4,7 +4,7 @@ A tool that exports all of your osu!lazer beatmaps back to .osz files or folders
 I noticed some people on twitter and in osu!lazer issues wanted to export their beatmaps, so i decided to give it a try and wrote this simple program.
 
 ### Usage
-Launch OsuLazerBeatmapExporter in command line.
+Launch OsuLazerBeatmapExporter in command line.  
 ``OsuLazerBeatmapExporter [options]``
 
 Available options:
